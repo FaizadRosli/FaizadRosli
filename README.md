@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Faizad</h1>
 <h3 align="center">Code Wizards</h3>
 
